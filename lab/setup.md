@@ -25,7 +25,7 @@
 - [Explore `VS Code` layout](#explore-vs-code-layout)
 - [Open `README.md`](#open-readmemd)
 - [Open `Markdown` preview](#open-markdown-preview)
-- [Change workspace settings](#change-workspace-settings)
+- [Change the workspace settings](#change-the-workspace-settings)
 - [Optional enhancements](#optional-enhancements)
   - [Set up a coding agent](#set-up-a-coding-agent)
   - [Set up the shell prompt](#set-up-the-shell-prompt)
@@ -295,7 +295,7 @@ Method 2:
 
    `Markdown: Open Preview to the Side`
 
-## Change workspace settings
+## Change the workspace settings
 
 Look at the [workspace settings](./appendix/vs-code.md#workspace-settings) and change them as necessary.
 
