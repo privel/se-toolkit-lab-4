@@ -15,7 +15,6 @@
     - [1.4.2. (UPD) Set up `Docker`](#142-upd-set-up-docker)
     - [1.4.3. (UPD) (`Windows` only) Set the default shell for the `VS Code Terminal`](#143-upd-windows-only-set-the-default-shell-for-the-vs-code-terminal)
     - [1.4.4. Set up `Git`](#144-set-up-git)
-    - [1.4.5. (NEW) Set up `Nix`](#145-new-set-up-nix)
   - [1.5. (UPD) Open in `VS Code` the `software-engineering-toolkit` directory](#15-upd-open-in-vs-code-the-software-engineering-toolkit-directory)
   - [1.6. (UPD) Clone your fork and open it in `VS Code`](#16-upd-clone-your-fork-and-open-it-in-vs-code)
     - [1.6.1. (UPD) Copy your fork `URL`](#161-upd-copy-your-fork-url)
@@ -42,6 +41,7 @@
   - [1.17. (UPD) Set up a coding agent](#117-upd-set-up-a-coding-agent)
   - [1.18. (UPD) Log in to the autochecker](#118-upd-log-in-to-the-autochecker)
 - [2. Optional steps](#2-optional-steps)
+  - [1.4.5. (NEW) Set up `Nix`](#145-new-set-up-nix)
   - [1.8. (NEW) Set up `direnv`](#18-new-set-up-direnv)
   - [2.1. (UPD) Learn to go back after clicking a link](#21-upd-learn-to-go-back-after-clicking-a-link)
   - [2.2. Set up a coding agent](#22-set-up-a-coding-agent)
@@ -142,11 +142,6 @@
 1. (Optional) [Read about `Git`](../../wiki/git.md#what-is-git).
 2. [Install `Git`](https://git-scm.com/install/) if it's not installed.
 3. (Optional) [Configure `Git`](../../wiki/git.md#configure-git).
-
-#### 1.4.5. (NEW) Set up `Nix`
-
-1. (Optional) [Read about `Nix`](../../wiki/nix.md#what-is-nix).
-2. [Set up `Nix`](../../wiki/nix.md#set-up-nix).
 
 ### 1.5. (UPD) Open in `VS Code` the `software-engineering-toolkit` directory
 
@@ -375,6 +370,11 @@ These enhancements can make your life easier:
 - [Customize the `Source Control`](#24-customize-the-source-control)
 - [Get familiar with `GitLens`](#25-get-familiar-with-gitlens)
 - [Create a label for tasks](#26-create-a-label-for-tasks)
+
+### 1.4.5. (NEW) Set up `Nix`
+
+1. (Optional) [Read about `Nix`](../../wiki/nix.md#what-is-nix).
+2. [Set up `Nix`](../../wiki/nix.md#set-up-nix).
 
 ### 1.8. (NEW) Set up `direnv`
 
