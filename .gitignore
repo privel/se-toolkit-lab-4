@@ -11,4 +11,6 @@ __pycache__/
 
 .lycheecache
 
+.env.docker.secret
+
 tmp
