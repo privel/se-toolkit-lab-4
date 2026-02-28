@@ -22,6 +22,12 @@ th {
 tr:nth-child(even) {
   background: #fafafa;
 }
+td {
+  max-width: 300px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
 
 /* Token form */
 
